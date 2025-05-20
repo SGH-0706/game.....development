@@ -65,3 +65,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![Screenshot 2025-05-20 231205](https://github.com/user-attachments/assets/0497167c-a54f-4df0-b98c-d848d13f781f)
